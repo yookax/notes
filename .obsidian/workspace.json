@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "5987e32a1dfbdedf",
+    "type": "split",
+    "children": [
+      {
+        "id": "79dc45d79360bef5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89e41eff8207ff4c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "facce14f86ab6198",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ca79af7f9dca8e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91d0d9a6812ed7de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "145677bfa103d243",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5d9e80bf8c0a916e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "right": {
+    "id": "6138f2136cc86098",
+    "type": "split",
+    "children": [
+      {
+        "id": "74fbe70b14d5ab37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ec68e0624ab0cfd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日本語短文/イノべーションは多様性の中から生まれる.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "イノべーションは多様性の中から生まれる 的反向链接列表"
+            }
+          },
+          {
+            "id": "e605fddba7cf1849",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "d7886d4944d5ce41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a0036fa5d9d08519",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "89e41eff8207ff4c",
+  "lastOpenFiles": [
+    "日本語短文/5.21为梦想设定一个期限吧.pdf",
+    "日本語短文/5.21为梦想设定一个期限吧.mp3",
+    "日本語短文/イノべーションは多様性の中から生まれる.md",
+    "日本語短文/未命名.md",
+    "日本語短文/自分の弱さ直視できる強さがない者は、たくましい戦士にはなれない.md",
+    "日本語短文/イノべーションは多様性の中から生まれる.mp3",
+    "日本語短文/4.16创新.mp3",
+    "日本語短文/どうやって日本語を勉強する？.md",
+    "日本語短文/あなたの未来は、今の自分の考え方、行動にかかっています.md",
+    "日本語短文/自由.md",
+    "日本語短文/只有足够努力，才会足够幸运.md",
+    "日本語短文/命の水.md",
+    "日本語短文/命の水.png",
+    "a/Screenshot_20241214-070857.png",
+    "a/Screenshot_20241214-070843.png",
+    "a/Screenshot_20241214-070830.png",
+    "a/明るい方へ顔を向ければ、明るい気持ちになれる.md",
+    "日本語短文/100 Japanese-language foreign articles/1.14 年度汉字.pdf",
+    "日本語短文/100 Japanese-language foreign articles/1.10 浅草寺.pdf",
+    "日本語短文/100 Japanese-language foreign articles/1.10浅草寺.mp3",
+    "日本語短文/100 Japanese-language foreign articles/1.9 2023流行语.pdf",
+    "日本語短文/行動力がある人こそが人生を豊かにしてくれるというわけです.md",
+    "日本語短文/手紙.md",
+    "欢迎.md"
+  ]
+}
