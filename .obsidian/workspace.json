@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "5987e32a1dfbdedf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f91bb5d9414713bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd38a95be86006e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日本語短文/日本語スイッチ/EP1. 初めまして、山本郁です.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "EP1. 初めまして、山本郁です"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "facce14f86ab6198",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ca79af7f9dca8e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91d0d9a6812ed7de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "145677bfa103d243",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5d9e80bf8c0a916e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "6138f2136cc86098",
+    "type": "split",
+    "children": [
+      {
+        "id": "74fbe70b14d5ab37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ec68e0624ab0cfd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日本語短文/イノべーションは多様性の中から生まれる.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "イノべーションは多様性の中から生まれる 的反向链接列表"
+            }
+          },
+          {
+            "id": "e605fddba7cf1849",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "d7886d4944d5ce41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a0036fa5d9d08519",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "bd38a95be86006e2",
+  "lastOpenFiles": [
+    "notes",
+    "日本語短文/日本語スイッチ/EP1. 初めまして、山本郁です.mp3",
+    "日本語短文/日本語スイッチ/EP1. 初めまして、山本郁です.mp4",
+    "日本語短文/日本語スイッチ/EP1. 初めまして、山本郁です.txt",
+    "日本語短文/日本語スイッチ/1.01-初めまして、山本郁です.txt",
+    "日本語短文/日本語スイッチ/1.01-初めまして、山本郁です.mp4",
+    "日本語短文/日本語スイッチ/1.01-初めまして、山本郁です.mp3",
+    "日本語短文/明るい方へ顔を向ければ、明るい気持ちになれる.md",
+    "日本語短文/日本語スイッチ/EP1. 初めまして、山本郁です.md",
+    "日本語短文/手紙.md",
+    "日本語短文/自分の弱さ直視できる強さがない者は、たくましい戦士にはなれない.md",
+    "日本語短文/日本語スイッチ/1.01-初めまして、山本郁です - 副本.md",
+    "日本語短文/日本語スイッチ/1.01-初めまして、山本郁です - 副本.txt",
+    "日本語短文/日本語スイッチ/1.01-初めまして、山本郁です.md",
+    "日本語短文/日本語スイッチ",
+    "日本語短文/新建文件夹",
+    "日本語短文/初級/きれいな虹.mp4",
+    "日本語短文/初級/きれいな虹.md",
+    "日本語短文/初級/私の好きな食べ物.md",
+    "日本語短文/初級/私の学校.md",
+    "日本語短文/あなたの未来は、今の自分の考え方、行動にかかっています.md",
+    "日本語短文/自由.md",
+    "日本語短文/どうやって日本語を勉強する？.md",
+    "日本語短文/努力できる人は、大きなことを成し遂げることができます.md",
+    "日本語短文/只有足够努力，才会足够幸运.md",
+    "日本語短文/行動力がある人こそが人生を豊かにしてくれるというわけです.md",
+    "日本語短文/私の学校.md",
+    "明るい方へ顔を向ければ、明るい気持ちになれる.md",
+    "CPP-Concurrency-In-Action-2ed/cover.jpg",
+    "CPP-Concurrency-In-Action-2ed/README.md",
+    "README.md",
+    "02-虚拟机字节码执行引擎_01-方法调用.md",
+    "CPP-Concurrency-In-Action-2ed/content/appendix_A/A.6-chinese.md",
+    "CPP-Concurrency-In-Action-2ed/content/appendix_A/A.3-chinese.md",
+    "CPP-Concurrency-In-Action-2ed/content/appendix_A/A.1-chinese.md",
+    "CPP-Concurrency-In-Action-2ed/content/appendix_A/A.0-chinese.md",
+    "日本語短文/イノべーションは多様性の中から生まれる.md",
+    "日本語短文/命の水.png",
+    "CPP-Concurrency-In-Action-2ed/images/translator.png",
+    "CPP-Concurrency-In-Action-2ed/images/author.png",
+    "CPP-Concurrency-In-Action-2ed/images/chapter8/amdahl_law.png",
+    "CPP-Concurrency-In-Action-2ed/images/chapter8/8-3.png",
+    "CPP-Concurrency-In-Action-2ed/images/chapter8/8-2.png",
+    "CPP-Concurrency-In-Action-2ed/images/chapter8/8-1.png",
+    "CPP-Concurrency-In-Action-2ed/images/chapter7/7-1.png",
+    "CPP-Concurrency-In-Action-2ed/images/chapter6/6-1.png"
+  ]
+}
