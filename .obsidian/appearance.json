@@ -1,4 +1,6 @@
 {
   "theme": "obsidian",
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 17,
+  "textFontFamily": "Yu Gothic,MS PMincho,Javanese Text,MS PGothic"
 }

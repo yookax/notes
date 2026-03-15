@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f91bb5d9414713bf",
+        "id": "c2e24b18a8aa38a9",
         "type": "tabs",
         "children": [
           {
-            "id": "bd38a95be86006e2",
+            "id": "43bbb285de09bc2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語短文/日本語スイッチ/EP1. 初めまして、山本郁です.md",
+                "file": "日本語/单词本.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "EP1. 初めまして、山本郁です"
+              "title": "单词本"
             }
           }
         ]
@@ -142,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "日本語短文/日本語スイッチ/EP2. 天気の子　假名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Outline of EP2. 天気の子　假名"
             }
           }
         ],
@@ -165,56 +166,57 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
     }
   },
-  "active": "bd38a95be86006e2",
+  "active": "43bbb285de09bc2a",
   "lastOpenFiles": [
-    "notes",
-    "日本語短文/日本語スイッチ/EP1. 初めまして、山本郁です.mp3",
-    "日本語短文/日本語スイッチ/EP1. 初めまして、山本郁です.mp4",
-    "日本語短文/日本語スイッチ/EP1. 初めまして、山本郁です.txt",
-    "日本語短文/日本語スイッチ/1.01-初めまして、山本郁です.txt",
-    "日本語短文/日本語スイッチ/1.01-初めまして、山本郁です.mp4",
-    "日本語短文/日本語スイッチ/1.01-初めまして、山本郁です.mp3",
-    "日本語短文/明るい方へ顔を向ければ、明るい気持ちになれる.md",
-    "日本語短文/日本語スイッチ/EP1. 初めまして、山本郁です.md",
-    "日本語短文/手紙.md",
-    "日本語短文/自分の弱さ直視できる強さがない者は、たくましい戦士にはなれない.md",
-    "日本語短文/日本語スイッチ/1.01-初めまして、山本郁です - 副本.md",
-    "日本語短文/日本語スイッチ/1.01-初めまして、山本郁です - 副本.txt",
-    "日本語短文/日本語スイッチ/1.01-初めまして、山本郁です.md",
-    "日本語短文/日本語スイッチ",
-    "日本語短文/新建文件夹",
-    "日本語短文/初級/きれいな虹.mp4",
-    "日本語短文/初級/きれいな虹.md",
-    "日本語短文/初級/私の好きな食べ物.md",
-    "日本語短文/初級/私の学校.md",
-    "日本語短文/あなたの未来は、今の自分の考え方、行動にかかっています.md",
-    "日本語短文/自由.md",
-    "日本語短文/どうやって日本語を勉強する？.md",
-    "日本語短文/努力できる人は、大きなことを成し遂げることができます.md",
-    "日本語短文/只有足够努力，才会足够幸运.md",
-    "日本語短文/行動力がある人こそが人生を豊かにしてくれるというわけです.md",
-    "日本語短文/私の学校.md",
-    "明るい方へ顔を向ければ、明るい気持ちになれる.md",
-    "CPP-Concurrency-In-Action-2ed/cover.jpg",
-    "CPP-Concurrency-In-Action-2ed/README.md",
+    "日本語/1 - 助动词.md",
+    "日本語/1 - 缩约表现.md",
+    "日本語/1 - 授受动词.md",
+    "日本語/1 - 动词变形.md",
+    "日本語/1 - 补助动词.md",
+    "日本語/0 - 基本概念.md",
+    "English/时态.md",
+    "English/介词 = 形容词 or 副词.md",
+    "English/简单句.md",
+    "English/非谓语动词 —— 不定式、动名词、分词.md",
+    "English/0 - 基本概念.md",
+    "English/从句/形容词性从句（定语从句）.md",
+    "English/从句/名词性从句 · 同位语从句.md",
+    "English/从句/副词性从句（状语从句）.md",
     "README.md",
-    "02-虚拟机字节码执行引擎_01-方法调用.md",
-    "CPP-Concurrency-In-Action-2ed/content/appendix_A/A.6-chinese.md",
-    "CPP-Concurrency-In-Action-2ed/content/appendix_A/A.3-chinese.md",
-    "CPP-Concurrency-In-Action-2ed/content/appendix_A/A.1-chinese.md",
-    "CPP-Concurrency-In-Action-2ed/content/appendix_A/A.0-chinese.md",
-    "日本語短文/イノべーションは多様性の中から生まれる.md",
+    "JVM/02-虚拟机字节码执行引擎_01-方法调用.md",
+    "JVM",
+    "日本語/出、上、入、通、見、生、向.md",
+    "日本語/Camera_XHS_17333537958721040g008318l5r937kc005nht125g8i5vq5ca4e8.jpg",
+    "日本語/Screenshot_20241105-010048_104546.jpg",
+    "日本語/する.md",
+    "日本語/もの.md",
+    "日本語/なる.md",
+    "日本語/ところ.md",
+    "日本語/单词本 ー カタカナ.md",
+    "日本語/单词本.md",
+    "日本語/单词本 ー 漢字.md",
+    "日本語/自動詞と他動詞.md",
+    "日本語短文/努力できる人は、大きなことを成し遂げることができます.md",
+    "未命名.base",
+    "日本語短文/日本語スイッチ/EP2. 天気の子.mp4",
+    "日本語短文/日本語スイッチ/EP2. 天気の子.mp3",
+    "日本語短文/日本語スイッチ/EP3. 国民食.mp3",
+    "日本語短文/日本語スイッチ/EP3. 国民食.mp4",
+    "日本語短文/【纳豆日语】日语外刊精读 _ 以积极的态度面对你的人生 - 1.【纳豆日语】日语外刊精读 _ 以积极的态度面对你的人生(Av114097249062973,P1).mp4",
+    "日本語短文/HANAのPodcast",
+    "日本語短文/明るい方へ顔を向ければ、明るい気持ちになれる.mp4",
+    "日本語短文/日语外刊 _ 奋斗不一定会成功，但一定可以带来成长 - 1.日语外刊 _ 奋斗不一定会成功，但一定可以带来成长(Av113723301696244,P1).mp4",
+    "CPP-Concurrency-In-Action-2ed/cover.jpg",
     "日本語短文/命の水.png",
     "CPP-Concurrency-In-Action-2ed/images/translator.png",
     "CPP-Concurrency-In-Action-2ed/images/author.png",
     "CPP-Concurrency-In-Action-2ed/images/chapter8/amdahl_law.png",
     "CPP-Concurrency-In-Action-2ed/images/chapter8/8-3.png",
     "CPP-Concurrency-In-Action-2ed/images/chapter8/8-2.png",
-    "CPP-Concurrency-In-Action-2ed/images/chapter8/8-1.png",
-    "CPP-Concurrency-In-Action-2ed/images/chapter7/7-1.png",
-    "CPP-Concurrency-In-Action-2ed/images/chapter6/6-1.png"
+    "CPP-Concurrency-In-Action-2ed/images/chapter8/8-1.png"
   ]
 }
